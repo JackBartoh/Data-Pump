@@ -1,0 +1,15 @@
+C:\Users\Jacop\Desktop\Jacopo.Bartoletti.5G.DataPump2\Jacopo.Bartoletti.5G.DataPump2\bin\Debug\Jacopo.Bartoletti.5G.DataPump2.exe.config
+C:\Users\Jacop\Desktop\Jacopo.Bartoletti.5G.DataPump2\Jacopo.Bartoletti.5G.DataPump2\bin\Debug\Jacopo.Bartoletti.5G.DataPump2.exe
+C:\Users\Jacop\Desktop\Jacopo.Bartoletti.5G.DataPump2\Jacopo.Bartoletti.5G.DataPump2\bin\Debug\Jacopo.Bartoletti.5G.DataPump2.pdb
+C:\Users\Jacop\Desktop\Jacopo.Bartoletti.5G.DataPump2\Jacopo.Bartoletti.5G.DataPump2\obj\Debug\Jacopo.Bartoletti.5G.DataPump2.csprojAssemblyReference.cache
+C:\Users\Jacop\Desktop\Jacopo.Bartoletti.5G.DataPump2\Jacopo.Bartoletti.5G.DataPump2\obj\Debug\MainWindow.g.cs
+C:\Users\Jacop\Desktop\Jacopo.Bartoletti.5G.DataPump2\Jacopo.Bartoletti.5G.DataPump2\obj\Debug\App.g.cs
+C:\Users\Jacop\Desktop\Jacopo.Bartoletti.5G.DataPump2\Jacopo.Bartoletti.5G.DataPump2\obj\Debug\Jacopo.Bartoletti.5G.DataPump2_MarkupCompile.cache
+C:\Users\Jacop\Desktop\Jacopo.Bartoletti.5G.DataPump2\Jacopo.Bartoletti.5G.DataPump2\obj\Debug\Jacopo.Bartoletti.5G.DataPump2_MarkupCompile.lref
+C:\Users\Jacop\Desktop\Jacopo.Bartoletti.5G.DataPump2\Jacopo.Bartoletti.5G.DataPump2\obj\Debug\MainWindow.baml
+C:\Users\Jacop\Desktop\Jacopo.Bartoletti.5G.DataPump2\Jacopo.Bartoletti.5G.DataPump2\obj\Debug\Jacopo.Bartoletti.5G.DataPump2.g.resources
+C:\Users\Jacop\Desktop\Jacopo.Bartoletti.5G.DataPump2\Jacopo.Bartoletti.5G.DataPump2\obj\Debug\Jacopo.Bartoletti._5G.DataPump2.Properties.Resources.resources
+C:\Users\Jacop\Desktop\Jacopo.Bartoletti.5G.DataPump2\Jacopo.Bartoletti.5G.DataPump2\obj\Debug\Jacopo.Bartoletti.5G.DataPump2.csproj.GenerateResource.cache
+C:\Users\Jacop\Desktop\Jacopo.Bartoletti.5G.DataPump2\Jacopo.Bartoletti.5G.DataPump2\obj\Debug\Jacopo.Bartoletti.5G.DataPump2.csproj.CoreCompileInputs.cache
+C:\Users\Jacop\Desktop\Jacopo.Bartoletti.5G.DataPump2\Jacopo.Bartoletti.5G.DataPump2\obj\Debug\Jacopo.Bartoletti.5G.DataPump2.exe
+C:\Users\Jacop\Desktop\Jacopo.Bartoletti.5G.DataPump2\Jacopo.Bartoletti.5G.DataPump2\obj\Debug\Jacopo.Bartoletti.5G.DataPump2.pdb

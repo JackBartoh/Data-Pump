@@ -1,0 +1,19 @@
+﻿<Window x:Class="Jacopo.Bartoletti._5G.DataPump2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Jacopo.Bartoletti._5G.DataPump2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="85"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Button Margin="5" Width="500" FontSize="30" Click="btnClick">Crea SQL</Button>
+            <DataGrid Grid.Row="1" Margin="5" Name="dgDati"></DataGrid>
+        </Grid>
+    </Grid>
+</Window>
